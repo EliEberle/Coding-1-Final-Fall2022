@@ -1,0 +1,46 @@
+.caro{
+    max-height:50vw;
+    background-color:black;
+    width:100%;
+}
+
+.p{ 
+    color:rgb(42, 224, 36);
+    background-color:black;
+    font-style:oblique;
+    border-radius:10px;
+
+}
+
+.jermImg{
+    height:20vw;
+    border-radius:15px;
+    border-style:solid;
+}
+
+#contact{
+    margin-top:5%;
+    border-left:solid rgb(42, 224, 36);
+    border-right:solid rgb(42, 224, 36);
+    text-align:center;
+}
+
+body{
+    border-left:solid rgb(42, 224, 36);
+    border-right:solid rgb(42, 224, 36);
+}
+
+.feet{
+    background-color:rgb(34, 34, 34);
+    color:rgb(42, 224, 36);
+    text-align:center;
+    font-size:5vw;
+}
+
+.feet a{
+    color:rgb(42, 224, 36);
+}
+
+ul img{
+    height:100px;
+}
