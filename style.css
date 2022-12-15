@@ -1,3 +1,15 @@
+
+.feet{
+    background-color:rgb(34, 34, 34);
+    color:rgb(86, 198, 185);
+    text-align:center;
+    font-size:5vw;
+}
+
+.feet a{
+    color:rgb(86, 198, 185);
+}
+
 .caro{
     max-height:50vw;
     background-color:black;
@@ -18,27 +30,18 @@
     border-style:solid;
 }
 
-#contact{
-    margin-top:5%;
-    text-align:center;
-    font-family:K2D; 
-    font-size:30px;
-}
 
 body{
     border-left:solid rgb(222, 88, 88);
     border-right:solid rgb(222, 88, 88);
 }
 
-.feet{
-    background-color:rgb(34, 34, 34);
-    color:rgb(86, 198, 185);
-    text-align:center;
-    font-size:5vw;
-}
 
-.feet a{
-    color:rgb(86, 198, 185);
+#contact{
+    margin-top:5%;
+    text-align:center;
+    font-family:K2D; 
+    font-size:30px;
 }
 
 #contact img{
@@ -58,5 +61,22 @@ body{
     border-right: solid rgb(86, 198, 185);
     border-left: solid  rgb(86, 198, 185);
     border-bottom: solid rgb(86, 198, 185);
+}
+
+.card-body{
+    background-color:rgb(34, 34, 34);
+    color:white;
+}
+
+.d{
+    border-color:rgb(222, 88, 88);
+    border-style: solid;
+    border-width: 3px;
+}
+
+.da{
+    border-color:rgb(86, 198, 185);
+    border-style: solid;
+    border-width: 3px;
 }
 
